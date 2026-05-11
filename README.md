@@ -10,7 +10,7 @@
 
 * Word-based Yaathe translator to portuguese
 
-* Sentence-based Tupi Potiguara translator to portuguese
+* Sentence-based Tupi Potiguara translator to portuguese and english
 
 ## Notice
 
