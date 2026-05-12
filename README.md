@@ -4,12 +4,15 @@
   Native Translators 
 </h1>
 
-
->Small translators for Brazilian indigenous languages, made while learning Python and computational linguistics. Created to help preserve endangered native languages.
-
 ---
 
-## Current Projects
+## Overview
+
+Small translators for Brazilian indigenous languages, made while learning Python and computational linguistics
+
+Created to help preserve endangered native languages
+
+### Current Projects
 
 * Word-based Yaathe translator to portuguese
 
