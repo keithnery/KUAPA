@@ -2,6 +2,7 @@
   Native Translators 
 </h1>
 
+>[!TIP]
 >Small translators for Brazilian indigenous languages, made while learning Python and computational linguistics. Created to help preserve endangered native languages.
 
 ---
@@ -12,6 +13,6 @@
 
 * Sentence-based Tupi Potiguara translator to portuguese and english
 
-## Notice
+## Note
 
 * Limited vocabulary and tools yet
