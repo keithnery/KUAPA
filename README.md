@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> 
-  Native Translators 📜
+  Native Translators 
 </h1>
 
 
