@@ -15,6 +15,10 @@ Created to help preserve endangered native languages
 
 ## Changelog
 
+### [v0.2.0] - 2026-06
+
+* Added translator for simple terms and expressions in Tupi Potiguara
+
 ### [v0.1.0] - 2026-04
 
 * Initial release
