@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="guarana.png" width="100">
-</p>
-
 <h1 align="center"> 
-  Native Translators 
+  KUAPA 
 </h1>
 
 
