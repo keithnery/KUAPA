@@ -5,7 +5,7 @@
 
 ## Overview
 
-Small translators for Brazilian indigenous languages, made while learning Python and computational linguistics
+Small translators for Brazilian indigenous languages
 
 Created to help preserve endangered native languages
 
