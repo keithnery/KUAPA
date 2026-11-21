@@ -16,7 +16,7 @@ Created to help preserve endangered native languages
 * **Run locally (optional):** Clone or download this repository and serve it using a local web server (such as VS Code's *Live Server* or `python -m http.server`) so `.json` dictionary files load properly in the browser.
 
 > [!TIP]
-> Try tapping the logo
+> Try tapping the logo on the website
 
 ## Changelog
 
