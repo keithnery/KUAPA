@@ -10,7 +10,7 @@ Created to help preserve endangered native languages
 
 ## How to Use
 
-* **Access online:** Open the [KUAPA website]() directly in your browser.
+* **Access online:** Open the [KUAPA website](https://keithnery.github.io/KUAPA/) directly in your browser.
 * **Select the language:** Choose the source language (**Tupi Potiguara** or **Yaathe**) and target language (**Portuguese** or **English**).
 * **Type the full input:** Write the complete word, term, or phrase you want to translate — the translation only appears once you type it in full.
 * **Run locally (optional):** Clone or download this repository and serve it using a local web server (such as VS Code's *Live Server* or `python -m http.server`) so `.json` dictionary files load properly in the browser.
