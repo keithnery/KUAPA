@@ -1,0 +1,81 @@
+[
+   
+    {
+      "pt": ["meu nome é {x}", "me chamo {x}", "eu me chamo {x}"],
+      "en": ["my name is {x}"],
+      "tp": ["xe rera {x}"],
+      "yt": ["i khetkyahe {x}"]
+    },
+    {
+      "pt": ["bom dia"],
+      "en": ["good morning"],
+      "tp": ["tiá nde ko'ema"],
+      "yt": ["tx'txaya kaká"]
+    },
+    {
+      "pt": ["boa tarde"],
+      "en": ["good afternoon"],
+      "tp": ["tiá nde karuka"],
+      "yt": ["sotxa kaká"]
+    },
+    {
+      "pt": ["boa noite"],
+      "en": ["good night"],
+      "tp": ["tiá nde pytuna"],
+      "yt": ["f'thea kaká"]
+    },
+    {
+      "pt": ["olá", "oi"],
+      "en": ["hello", "hi"],
+      "tp": ["eikobé"],
+      "yt": ["aei"]
+    },
+    {
+      "pt": ["tudo bem?", "você está bem?"],
+      "en": ["are you ok?", "are you fine?", "how are you?"],
+      "tp": ["nde katúpe?", "ereikobépe?"],
+      "yt": ["akakma", "akakawma"]
+    },
+    {
+      "pt": ["como é o teu nome?", "qual é o teu nome?"],
+      "en": ["what is your name?", "what's your name?"],
+      "tp": ["marãpe nde rera?"],
+      "yt": ["tonkyatsahe a khetkya"]
+    },
+    {
+      "pt": ["estou bem", "eu estou bem"],
+      "en": ["i'm fine"],
+      "tp": ["aikokatu", "xe katu"],
+      "yt": ["ikakzaawa"]
+    },
+    {
+      "pt": ["não estou bem"],
+      "en": ["i'm not fine"],
+      "tp": ["naikokatúi", "na xe katúi"],
+      "yt": ["i kakdode"]
+    },
+    {
+      "pt": ["sim"],
+      "en": ["yes"],
+      "tp": ["eẽ"],
+      "yt": ["aei"]
+    },
+    {
+      "pt": ["não"],
+      "en": ["no"],
+      "tp": ["aã"],
+      "yt": ["io"]
+    },
+    {
+      "pt": ["obrigado"],
+      "en": ["thank you"],
+      "tp": ["aikuguab"],
+      "yt": ["kelyá"]
+    },
+    {
+      "pt": ["eu te amo", "eu amo você"],
+      "en": ["i love you"],
+      "tp": ["oroausub"],
+      "yt": ["i a tuthnido"]
+    }
+  ]
