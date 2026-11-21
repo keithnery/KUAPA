@@ -1,15 +1,29 @@
-<h1 align="center"> 
-  KUAPA 
-</h1>
-
+<p align="center">
+  <img src="assets/logo.png" alt="KUAPA" width="220">
+</p>
 
 ## Overview
 
-Small translators for Brazilian indigenous languages
+Small translator for Brazilian indigenous languages
 
 Created to help preserve endangered native languages
 
+## How to Use
+
+* **Access online:** Open the [KUAPA website]() directly in your browser.
+* **Select the language:** Choose the source language (**Tupi Potiguara** or **Yaathe**) and target language (**Portuguese** or **English**).
+* **Type the full input:** Write the complete word, term, or phrase you want to translate — the translation only appears once you type it in full.
+* **Run locally (optional):** Clone or download this repository and serve it using a local web server (such as VS Code's *Live Server* or `python -m http.server`) so `.json` dictionary files load properly in the browser.
+
+> [!TIP]
+> Try tapping the logo
+
 ## Changelog
+
+### [v1.0.0] - 2026-11
+
+* First web-based release unifying the translators into a single website and removing standalone program files
+* Uses `.json` data files to store translations, with a very small set of terms and expressions available so far (to be expanded along with new languages)
 
 ### [v0.2.0] - 2026-06
 
