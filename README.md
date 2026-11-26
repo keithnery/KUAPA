@@ -8,6 +8,8 @@ Small translator for Brazilian indigenous languages
 
 Created to help preserve endangered native languages
 
+Works on desktop and mobile
+
 ## How to Use
 
 * **Access online:** Open the [KUAPA website](https://keithnery.github.io/KUAPA/) directly in your browser.
